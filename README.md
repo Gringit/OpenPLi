@@ -1,1 +1,1 @@
-OpenPLi
+OpenPLi italian translations
