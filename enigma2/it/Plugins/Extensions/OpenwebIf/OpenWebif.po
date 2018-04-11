@@ -275,7 +275,7 @@ msgstr "Impostazioni LCD4Linux"
 
 #: plugin/controllers/base.py:308
 msgid "OSCam Webinterface"
-msgstr "Interfaccia web OSCam"
+msgstr "Interfaccia OSCam"
 
 #: plugin/controllers/base.py:312
 msgid "AutoTimer"
@@ -283,7 +283,7 @@ msgstr "AutoTimer"
 
 #: plugin/controllers/base.py:317
 msgid "BouquetEditor"
-msgstr "Editor dei bouquet"
+msgstr "Editor bouquet"
 
 #: plugin/controllers/base.py:321
 msgid "EPGRefresh"
@@ -337,7 +337,7 @@ msgstr "IPv4-solo Python/Twisted"
 
 #: plugin/controllers/models/info.py:177 plugin/local.py:126
 msgid "none/IPv4-only network"
-msgstr "Nessuno / solo rete IPv4"
+msgstr "Nessuno / Solo rete IPv4"
 
 #: plugin/controllers/models/info.py:362 plugin/controllers/models/info.py:365
 #: plugin/controllers/models/movies.py:232
@@ -2110,7 +2110,7 @@ msgstr "Impostazioni browser OpenWebif"
 
 #: plugin/local.py:423
 msgid "OpenWebif Settings"
-msgstr "Impostazioni OpenWebif"
+msgstr "OpenWebif"
 
 #: plugin/local.py:424
 msgid "Theme"
