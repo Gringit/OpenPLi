@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: OpenPLi-enigma2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-04-01 23:45+0200\n"
-"PO-Revision-Date: 2018-04-05 19:58+0200\n"
+"PO-Revision-Date: 2018-04-11 21:09+0200\n"
 "Last-Translator: Gringo <openpli@tiscali.it>\n"
 "Language-Team: www.linsat.net <spaeleus@croci.org>\n"
 "Language: it\n"
@@ -10423,7 +10423,7 @@ msgstr ""
 "invertire i tasti B+/B-."
 
 msgid "Configure the duration in minutes for the screensaver."
-msgstr "Impostare l'attesa in minuti prima di attivare il salva schermo."
+msgstr "Impostare l'attesa in minuti prima di attivare il salvaschermo."
 
 msgid "Configure the first audio language (highest priority)."
 msgstr "Impostare la lingua audio primaria (priorità più alta)."
@@ -10815,7 +10815,7 @@ msgid "Finetune"
 msgstr "Sintonia fine"
 
 msgid "Hard disk setup"
-msgstr "Impostazioni disco rigido"
+msgstr "Disco rigido"
 
 msgid "Hard disk standby after"
 msgstr "Disco rigido in sospensione dopo"
@@ -10836,13 +10836,13 @@ msgstr ""
 "traslitterazione latin-1."
 
 msgid "Ignore DVB-C namespace sub network"
-msgstr "Ignorare la sottorete del namespace DVB-C"
+msgstr "Ignorare la sottorete dello spazio dei nomi DVB-C"
 
 msgid "Ignore DVB-S namespace sub network"
-msgstr "Ignorare la sottorete del namespace DVB-S"
+msgstr "Ignorare la sottorete dello spazio dei nomi DVB-S"
 
 msgid "Ignore DVB-T namespace sub network"
-msgstr "Ignorare la sottorete del namespace DVB-T"
+msgstr "Ignorare la sottorete dello spazio dei nomi DVB-T"
 
 msgid ""
 "Import channels and/or EPG from remote receiver URL also when the receiver "
@@ -10898,7 +10898,7 @@ msgid "Keyboard map"
 msgstr "Formato della tastiera"
 
 msgid "Keyboard setup"
-msgstr "Impostazioni della tastiera"
+msgstr "Tastiera"
 
 msgid "Limit character set for recording filenames"
 msgstr "Gruppo di caratteri limitato per i nomi dei file delle registrazioni"
@@ -11189,7 +11189,7 @@ msgid "Show record indicator"
 msgstr "Mostrare l'indicatore di registrazione"
 
 msgid "Show screensaver"
-msgstr "Mostrare il salva schermo"
+msgstr "Mostrare il salvaschermo"
 
 msgid "Show second infobar"
 msgstr "Mostrare la seconda infobar"
@@ -12697,7 +12697,7 @@ msgid "Convert ext3 filesystem to ext4"
 msgstr "Convertire filesystem ext3 in ext4"
 
 msgid "Ignore DVB namespace sub network"
-msgstr "Ignorare la sottorete del namespace DVB"
+msgstr "Ignorare la sottorete dello spazio dei nomi DVB"
 
 msgid "Satfinder"
 msgstr "Satfinder"
