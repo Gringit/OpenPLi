@@ -1,3 +1,8 @@
+# Italian translations for BackupSuite.
+# Signed-off-by: Gringo <openpli@tiscali.it>
+#
+# Updated by: Gringo <openpli@tiscali.it>
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: BackupSuite\n"
@@ -12,8 +17,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Generator: Poedit 1.8.7.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Poedit-Basepath: ../../..\n"
-"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Basepath: .\n"
 
 #: message.py:22 plugin.py:207
 msgid "No supported receiver found!"

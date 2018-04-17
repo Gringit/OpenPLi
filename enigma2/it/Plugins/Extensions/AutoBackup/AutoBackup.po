@@ -1,3 +1,8 @@
+# Italian translations for AutoBackup.
+# Signed-off-by: Gringo <openpli@tiscali.it>
+#
+# Updated by: Gringo <openpli@tiscali.it>
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: AutoBackup\n"
